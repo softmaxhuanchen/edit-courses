@@ -29,7 +29,7 @@ components:
   layout_properties: {slot: nav-right}
 - type: Label
   properties: {role: title, align: left, tooltip: '', border: '', foreground: '',
-    visible: true, text: News App, font_size: null, font: '', spacing_above: small,
+    visible: true, text: College Teachers, font_size: null, font: '', spacing_above: small,
     icon_align: left, spacing_below: small, italic: false, background: '', bold: false,
     underline: false, icon: ''}
   name: label_1
